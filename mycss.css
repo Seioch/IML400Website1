@@ -1,8 +1,58 @@
 body {
-    background-color: #767dba;
+    background-color: #cccc99;
 }
 
 h1 {
     color: #101974;
     margin-left: 20px;
+}
+
+h2{
+	color:black;
+	margin-left: 20px;
+	font-size:18px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	color:black;
+	font-size:20px;
+}
+
+#rectangle_b{
+    width:200px;
+    height:200px;
+    background:blue;
+	text-align:center;
+	font-size:30px;
+	font-family: "Arial",Arial, sans-serif;
+}
+
+#rectangle_y{
+    width:200px;
+    height:200px;
+    background:yellow;
+	text-align:center;
+	font-size:30px;
+	font-family: "Arial",Arial, sans-serif;
+}
+
+#rectangle_r{
+    width:200px;
+    height:200px;
+    background:red;
+	text-align:center;
+	font-size:30px;
+	font-family: "Arial",Arial, sans-serif;
+}
+
+#rectangle_g{
+    width:200px;
+    height:200px;
+    background:green;
+	text-align:center;
+	font-size:30px;
+	font-family: "Arial",Arial, sans-serif;
 }
